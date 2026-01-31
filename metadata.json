@@ -1,0 +1,8 @@
+
+{
+  "name": "VoxOverlay Screen Reader",
+  "description": "A high-performance text-to-speech accessibility tool with text highlighting, progress tracking, and a floating overlay interface inspired by mobile accessibility tabs.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
